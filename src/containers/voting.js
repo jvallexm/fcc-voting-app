@@ -144,8 +144,9 @@ export default class  App extends React.Component
         <h1>Aww Yeah Voting App!</h1>
 
           {typeof this.state.user== 'string' ? 
+          
           <FacebookLogin 
-          cssClass="btn"
+          cssClass="btn btn-primary"
           appId="249197798904473"
           autoLoad={true}
           fields="name,picture"

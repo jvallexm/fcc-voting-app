@@ -25,7 +25,7 @@
     "react-dom": "^15.4.2",
     "twitter": "^1.7.1",
     "express": "^4.14.1",
-    "mongodb": "^2.2.30"
+    "mongodb": "^2.2.30",
     "jquery": "^3.2.1",
     "react-facebook-login": "^3.6.2"
   },
